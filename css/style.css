@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: montserratregular ;
+    
+}
+html{
+    
+    margin:auto;
+    max-width: 1024px;
+}
+
+/*----------------------------------------------------*/
+nav{
+    background-color: #373c3f;
+    height:100%;
+}
+
+ul.list-inline a{
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 3% 3% 2%;
+    text-decoration: none;
+    color: #ebebeb;
+    font-size: 93.8%;
+}
+
+.row{
+    width: 100%;
+}
+
+.container1{
+    background-color: #0ca3b9;
+    padding: 10% 10% 15%;
+}
+
+h1{
+    color: #ffffff;
+    font-size: 370%;
+}
+
+h3{
+    color: #a8d6e0;
+    font-size: 250%;
+    margin-top: 10%;
+    margin-top: 10%;
+}
+
+p{
+    padding-top: 5%;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+/*----------------------------------------------------*/
+.robin-bloc{
+    display: inline-flex;
+    width: 100%;
+    height: 10em;
+}
+.layer1 {
+    background-color: #27212c;
+    width: 100%;
+}
+
+.layer1 p {
+    position: relative;
+    top: 30%;
+    padding-left: 90px;
+    color: #9787a6;
+    font-size: 240%;
+}
+
+.layer2 {
+    background-color: #bc3183;
+    width: 15em;
+}    
+/*----------------------------------------------------*/
+.photo-slider {
+    display: inline-flex;
+}
+
+.foto1 {
+		
+}
+
+.foto2{
+		
+}
+
+.foto3{
+	
+}
+
+/*----------------------------------------------------*/
+.info{
+    color: #515151;
+    font-size: 100%;
+    margin-bottom: 10%;
+    line-height: 1.2em;   
+}
+    .info2{
+        color: #515151;
+        font-size: 100%;
+        margin-bottom: 10%;
+        line-height: 1.2em;
+    } 
+    .info2 h2 a{
+        position: relative;
+        color: #088ca5;
+        top: 30px;
+        left: 2em;
+        font-size: 150%;
+    }
+    .info3{
+        column-count: 2;
+        column-gap: 40px;
+        padding-top: 50px;
+        margin: 0em 2em 0em 2em;
+    }
+/*article div {  
+    margin-top: 1px;
+    padding-bottom: 2em;
+    padding-top: 0em;
+    
+  }*/
+/*.info { 
+    column-count:2;   
+    /*margin-top: 31px;*/
+}
+/*
+.info h2{
+    font-size: 30px;
+    margin-left: 82px;
+    padding-top: 54px;
+    color: #088ca5;
+}
+h2{
+text-decoration: none;
+        font-size: 3.5em;
+        margin-left: 2em;
+        padding-top: 1em;
+        color: #088ca5;
+}
+h2  a {
+    text-decoration: none;
+    color: #088ca5;
+}
+
+/*.layer3 p{
+    font-size: 14px;
+    margin-top: 31px;
+    margin-left:82px;
+}*/
+/*
+
+<div class="info" style="
+    bottom: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-left-width: 82px;
+    padding-left: 0px;
+    left: 187.484;
+">  
+        <h2><a href="http://www.google.com">BlazRobar.com</a></h2>
+        <article>
+            <div style="
+    margin-left: 82px;
+    margin-right: 40px;
+">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vehicula ipsum non leo tristique eget facilisis lacus commodo. Curabitur vitae justo lorem, non ornare nibh. Pellentesque pretium, tellus ac ultrices faucibus, nibh mauris dapibus lorem, vitae viverra nisl elit sit amet libero. Nam eu blandit risus.</p>
+            </div>
+            <div style="
+    margin-left: 82px;
+    margin-right: 34px;
+">
+                <p>Phasellus imperdiet mattis nulla. Integer gravida imperdiet congue. Proin vitae pretium augue. Donec est sem, mattis et blandit ac, blandit at arcu. Donec tempus tincidunt suscipit. Suspendisse eu vulputate lacus.</p>
+            </div>
+            <div style="
+    margin-left: 45px;
+    margin-right: 69px;
+    margin-top: 68px;
+    border-top-width: 0px;
+    padding-top: 69px;
+">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vehicula ipsum non leo tristique eget facilisis lacus commodo. Curabitur vitae justo lorem, non ornare nibh. Pellentesque pretium, tellus ac ultrices faucibus, nibh mauris dapibus lorem, vitae viverra nisl elit sit amet libero. Nam eu blandit risus.</p>
+            </div>
+            <div style="
+    margin-left: 40px;
+    margin-right: 56px;
+">
+                <p>Phasellus imperdiet mattis nulla. Integer gravida imperdiet congue. Proin vitae pretium augue. Donec est sem, mattis et blandit ac, blandit at arcu. Donec tempus tincidunt suscipit. Suspendisse eu vulputate lacus.</p>
+            </div>
+        </article>
+    </div>
+    */
